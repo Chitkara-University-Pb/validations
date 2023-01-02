@@ -1,2 +1,4 @@
-hello how was day
-this is a great laptop
+divide and conquer
+0-1 knapsack problem
+stacks
+
